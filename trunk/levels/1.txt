@@ -1,0 +1,20 @@
+PPPPPPPPPPPPPPPPPPPPPPPPP
+P  P                    P
+P  PPPPPP               P
+P  P     P    P         P
+P  P      P   P         P
+P  P       P  P         P
+P  P         PP    PPPPPP
+P  P    C   P P         P
+P  P       P  P         P
+P  P      P   PPPPPP    P
+P  P     P    PP        P
+P  P PP       PPP      PP
+P  PPPPP      PPPP    PPP
+P       P     PPPPP  PPPP
+P   T    PP   P         P
+P            PP         P
+P          PP P         P
+P       PP    P         P
+P      PPPP   PE        P
+PPPPPPPPPPPPPPPPPPPPPPPPP
